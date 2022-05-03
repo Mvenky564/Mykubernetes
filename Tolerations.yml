@@ -12,7 +12,7 @@ spec:
       image: httpd
   tolerations:
     - key: Slave1
-      value: Intelliqit
+      value: Intelliqit1
       operator: Equal
       effect: NoSchedule
 ...
